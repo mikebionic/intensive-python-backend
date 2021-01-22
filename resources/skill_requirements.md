@@ -9,6 +9,7 @@ Just add an X inside brackets "[x]" after gaining skill to track your activity.
 * [ ] Frameworks (Flask, Django, Express, Next, etc.)
 * [ ] Understanging HTTP and status codes
 * [ ] Understanding HTTPS, WSS and other security related connections
+* [ ] Understanding sessions and cookies
 * [ ] Working with request related technologies (curl, Postman, etc.)
 * [ ] Databases, SQL queries, relationships
 * [ ] ORM technologies
