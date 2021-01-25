@@ -12,5 +12,5 @@ Go to workshop and create folder of your projects to complete the tasks.
 Commit after each task completion.
 Add a documentation on your projects in a markdown text format.
 ## Tasks
-* [Flask tasks] (workshop/python_flask/tasks.md)
-* [Python tasks] (workshop/python/tasks.md)
+* [Flask tasks](workshop/python_flask/tasks.md)
+* [Python tasks](workshop/python/tasks.md)
