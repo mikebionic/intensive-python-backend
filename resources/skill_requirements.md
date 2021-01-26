@@ -1,4 +1,4 @@
-# Skill requirements of a backend developer
+# Skill requirements of a backend developer (DEV)
 
 Just add an X inside brackets "[x]" after gaining skill to track your activity.
 
@@ -24,7 +24,7 @@ Just add an X inside brackets "[x]" after gaining skill to track your activity.
 * [ ] Docker
 
 
-# Skill requirements of a server administrator
+# Skill requirements of a server administrator (OPS)
 
 * [ ] IP addresses and their configuration
 * [ ] Ports. Applications, using ports
@@ -32,6 +32,9 @@ Just add an X inside brackets "[x]" after gaining skill to track your activity.
 * [ ] NGINX configuration
 * [ ] Logging
 * [ ] SSH security
+* [ ] Eager to automate routines
+* [ ] Ability to use CLI editors (Vim, Vi, Nano)
+* [ ] Wide knowledge of CLI commands to operate with files and system
 * [ ] Configuring databases and cache servers
 * [ ] Mail server configuration (Postfix, Dovecot)
 * [ ] File server configuration (Samba)

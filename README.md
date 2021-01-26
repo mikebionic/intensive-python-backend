@@ -7,6 +7,8 @@ This repository is about Pyhton developer preparation. These guides with help yo
 * [Python reference](resources/automatetheboringstuffwithpython.pdf)
 * [Flask Cookbook](resources/FlaskFrameworkCookBook.pdf)
 * [Flask Web Development](resources/FlaskWebDevelopment.pdf)
+* [Pragmatic programmer](pragmatic_programmer_ru.pdf)
+* [Vim practical guide](vim_practical.pdf)
 
 Go to workshop and create folder of your projects to complete the tasks.
 Commit after each task completion.
