@@ -1,5 +1,7 @@
 # 'q' and 'a' are "question" and "answer"
 
+# !!! Be careful about identation, here you've got two tabs + tree spaces, looks unclear
+
 qa_list = [["What is the capital of T-n? - ", "Ashgabat"],
 		   ["7 x 8? - ", "56"],
 		   ["President of Russia? - ", "Putin"],
@@ -21,6 +23,11 @@ def list_version():
 	for i in range(len(qa_list)):
 		if life != 0:
 			answer = input(qa_list[i][0]).capitalize()
+
+			# !!! You don't give him answers to select
+			# task icludes providing answers as a separate list of dictionary
+			# with structure of having a mark "Correct" as a boolean or something similar
+
 			if answer == qa_list[i][1]:
 				correct_answer += 1
 				print("Correct!\n")
@@ -29,6 +36,7 @@ def list_version():
 				life -= 1
 				print(f"Incorrect! You have {life} chance.\n")
 
+	# !!! Score is calculated by qty of answers, you should give exact value (5/5 or 100%)
 	if life == 0:
 		print("Fail")
 	else:
