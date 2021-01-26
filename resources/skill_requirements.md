@@ -22,3 +22,16 @@ Just add an X inside brackets "[x]" after gaining skill to track your activity.
 * [ ] API Documenting skills
 * [ ] Logging
 * [ ] Docker
+
+
+# Skill requirements of a server administrator
+
+* [ ] IP addresses and their configuration
+* [ ] Ports. Applications, using ports
+* [ ] Configuring Firewall (firewalld, iptables)
+* [ ] NGINX configuration
+* [ ] Logging
+* [ ] SSH security
+* [ ] Configuring databases and cache servers
+* [ ] Mail server configuration (Postfix, Dovecot)
+* [ ] File server configuration (Samba)
