@@ -32,6 +32,8 @@ Just add an X inside brackets "[x]" after gaining skill to track your activity.
 * [ ] NGINX configuration
 * [ ] Logging
 * [ ] SSH security
+* [ ] Network protocols
+* [ ] Tools for forensics (Nmap, wireshark)
 * [ ] Eager to automate routines
 * [ ] Ability to use CLI editors (Vim, Vi, Nano)
 * [ ] Wide knowledge of CLI commands to operate with files and system
