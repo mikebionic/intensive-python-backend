@@ -38,5 +38,4 @@ Just add an X inside brackets "[x]" after gaining skill to track your activity.
 * [ ] Ability to use CLI editors (Vim, Vi, Nano)
 * [ ] Wide knowledge of CLI commands to operate with files and system
 * [ ] Configuring databases and cache servers
-* [ ] Mail server configuration (Postfix, Dovecot)
-* [ ] File server configuration (Samba)
+* [ ] File server configuration (Samba) (optional)
